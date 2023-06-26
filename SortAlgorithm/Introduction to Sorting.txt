@@ -1,0 +1,66 @@
+Introduction 
+
+Sorting is the process of arranging elements in ascending or descending 
+order. For example, when we play cards, we sort cards according to their 
+value so that we can find the required card easily. 
+
+When we go to some library, the books are arranged according to streams 
+(Algorithm, Operating systems, Networking etc.). Sorting arranges data 
+elements in order so that searching become easier. When books are 
+arranged in proper indexing order, then it is easy to find a book we are 
+looking for. 
+
+This chapter discusses algorithms for sorting an array of items. 
+Understanding sorting algorithms are the first step towards understanding 
+algorithm analysis. Many sorting algorithms are developed and analyzed. 
+
+Sorting algorithms like Bubble-Sort, Insertion-Sort and Selection-Sort are 
+easy to implement and are suitable for the small input set. However, for 
+large dataset they are slow. Sorting algorithms like Merge-Sort, Quick-Sort 
+and Heap-Sort are some of the algorithms that are suitable for sorting large 
+dataset. However, they are overkill if we want to sort a small dataset. 
+
+Some other algorithms are there to sort a huge data set that cannot be 
+stored in memory completely, for which external sorting technique is 
+developed. 
+
+Before we start a discussion of the various algorithms one by one. First, we 
+should look at comparison function that is used to compare two values. 
+
+Less function will return true if value1 is less than value2 otherwise it will 
+return false. 
+
+	private static bool less(int value1, int value2)
+	{ 
+		return value1 < value2;
+	} 
+
+More function will return true if value1 is greater than value2 otherwise it 
+will return false. 
+
+	private static bool more(int value1, int value2)
+	{ 
+		return value1 > value2;
+	} 
+
+The value in various sorting algorithms is compared using one of the above 
+functions and it will be swapped depending upon the return value of these 
+functions. If more() comparison function is used, then sorted output will be 
+increasing in order and if less() is used then resulting output will be in 
+descending order. 
+
+Types of Sorting
+
+Internal Sorting: All the elements can be read into memory at the same time 
+and sorting is performed in memory. 
+
+1. Selection-Sort
+2. Insertion-Sort
+3. Bubble-Sort
+4. Quick-Sort
+5. Merge-Sort
+
+External Sorting: In this type of sorting, the dataset is so big that it is 
+impossible to load the whole dataset into memory so sorting is done in 
+chunks. 
+1. Merge-Sort

@@ -1,0 +1,30 @@
+Introduction 
+
+Searching is the process of finding a particular item in a collection of items. 
+The item may be a keyword in a file, a record in a database, a node in a 
+tree or a value in an array etc. 
+
+Why Searching? 
+
+Imagine you are in a library with millions of books. You want to get a specific 
+book with specific title. How will you find it? You will search the book in the 
+section of library, which contains the books whose name starts with the 
+initial letter of the desired book. Then you continue matching with a whole 
+book title until you find your book. (By doing this small heuristic method you 
+have reduced the search space by a factor of 26, consider we have an equal 
+number of books whose title begin with particular char.) 
+
+Similarly, computer stores lots of information and to retrieve this information 
+efficiently, we need very efficient searching algorithms. To make searching 
+efficient, we keep the data in some proper order. If you keep the data 
+organized in proper order, it is easy to search required value or key. For 
+example, keeping the data in sorted order is one of the way to organize 
+data. 
+
+Different Searching Algorithms 
+
+• Linear Search – Unsorted Input
+• Linear Search – Sorted Input
+• Binary Search (Sorted Input)
+• String Search: Tries, Suffix Trees, Ternary Search.
+• Hashing and Symbol Tables
