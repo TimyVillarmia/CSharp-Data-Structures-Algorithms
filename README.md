@@ -2,7 +2,7 @@
 
 This repository contains implementations of various data structures and algorithms using C#. It is based on the concepts presented in the book ["Problem Solving in Data Structures & Algorithms Using C#" by Hemant Jain (2018)](https://drive.google.com/file/d/1dB-ORxSVQVJe85bVUc27H8t_3qAKpu7L/view?usp=drive_link). The purpose of this repository is to provide a practical resource for learning and understanding data structures and algorithms.
 
-## Why?
+## Learn DSA with Practical Examples
 
 The primary objective of this repository is to serve educational purposes. By providing well-commented code examples and explanations, it aims to assist individuals in grasping the fundamental concepts of data structures and algorithms. Whether you are a student, a developer, or an enthusiast looking to enhance your understanding of DSA, this repository can be a valuable resource.
 
