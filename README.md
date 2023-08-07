@@ -20,9 +20,9 @@ The primary objective of this repository is to serve educational purposes. By pr
    * Bucket Sort
 
 Please note that the repository is a work in progress, and additional content will be added regularly. Contributions and suggestions are welcome to improve and expand the repository's content.
-## How to Contribute
+## How to Use
 
-To make the most of this repository, refer to [this](/CONTRIBUTING.md) or you can follow these steps:
+To make the most of this repository, you can follow these steps:
 
 1. Clone the repository to your local machine using the following command:
 
@@ -30,6 +30,12 @@ To make the most of this repository, refer to [this](/CONTRIBUTING.md) or you ca
    git clone https://github.com/TimyVillarmia/CSharp-Data-Structures-Algorithms.git
    ```
 2. Install the required Code Editor: https://www.linqpad.net/
+
+## Contribution
+Contributions to this repository are welcome! If you have ideas, suggestions, or improvements, feel free to submit a pull request. Please ensure that your contributions align with the [project's coding standards and best practices](/CONTRIBUTING.md).
+
+## License
+This repository is licensed under the [MIT License](/LICENSE.md). Feel free to use, modify, and distribute the code for educational and non-commercial purposes. Refer to the license file for more details.
 
 ## Acknowledgements
 
