@@ -8,7 +8,24 @@ The primary objective of this repository is to serve educational purposes. By pr
 
 ## Table of Contents
 
-1. Searching
+1. Data Structures
+   * Array
+   * Linked List
+   * Stack
+   * Queue
+   * Hash Table
+   * Heap
+   * Tree
+      * Binary Tree
+      * Binary Search Tree
+      * Full Binary Tree
+      * Balanced Tree
+      * Unbalanced Tree
+   * Graph
+      * Directed Graph
+      * Undirected Graph
+      * Spanning Tree 
+2. Searching
    * [Linear Search](/SearchAlgorithm/LinearSearch.linq)
    * [Binary Search](/SearchAlgorithm/BinarySearch.linq)
 3. Sorting
