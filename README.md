@@ -13,18 +13,12 @@ The primary objective of this repository is to serve educational purposes. By pr
    * Linked List
    * Stack
    * Queue
-   * Hash Table
-   * Heap
    * Tree
       * Binary Tree
       * Binary Search Tree
-      * Full Binary Tree
-      * Balanced Tree
-      * Unbalanced Tree
-   * Graph
-      * Directed Graph
-      * Undirected Graph
-      * Spanning Tree 
+   * Heap
+   * Hash Table
+   * Dictionary
 2. Searching
    * [Linear Search](/SearchAlgorithm/LinearSearch.linq)
    * [Binary Search](/SearchAlgorithm/BinarySearch.linq)
