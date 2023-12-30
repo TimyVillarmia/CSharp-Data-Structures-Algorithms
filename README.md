@@ -1,6 +1,6 @@
 # Data-Structures-Algorithms
 
-This repository contains implementations of various data structures and algorithms using C#. It is based on the concepts presented in the book ["Problem Solving in Data Structures & Algorithms Using C#" by Hemant Jain (2018)](https://drive.google.com/file/d/1dB-ORxSVQVJe85bVUc27H8t_3qAKpu7L/view?usp=drive_link). The purpose of this repository is to provide a practical resource for learning and understanding data structures and algorithms.
+This repository contains implementations of various data structures and algorithms using C#. It is based on the concepts presented in the book ["Problem Solving in Data Structures & Algorithms Using C#" by Hemant Jain (2018)](https://github.com/TimyVillarmia/CSharp-Data-Structures-Algorithms/blob/main/Hemant%20Jain%20-%20Problem%20Solving%20in%20Data%20Structures%20%26%20Algorithms%20Using%20C%23%20(2018).pdf). The purpose of this repository is to provide a practical resource for learning and understanding data structures and algorithms.
 
 ## Learn DSA with Practical Examples
 
@@ -50,6 +50,6 @@ This repository is licensed under the [MIT License](/LICENSE.md). Feel free to u
 
 ## Acknowledgements
 
-The content and examples in this repository are based on the book ["Problem Solving in Data Structures & Algorithms Using C#" by Hemant Jain (2018)](https://drive.google.com/file/d/1dB-ORxSVQVJe85bVUc27H8t_3qAKpu7L/view?usp=drive_link). The book serves as a valuable reference for understanding the concepts behind the implementations provided here.
+The content and examples in this repository are based on the book ["Problem Solving in Data Structures & Algorithms Using C#" by Hemant Jain (2018)](https://github.com/TimyVillarmia/CSharp-Data-Structures-Algorithms/blob/main/Hemant%20Jain%20-%20Problem%20Solving%20in%20Data%20Structures%20%26%20Algorithms%20Using%20C%23%20(2018).pdf). The book serves as a valuable reference for understanding the concepts behind the implementations provided here.
 
 Happy learning and exploring the world of data structures and algorithms!
